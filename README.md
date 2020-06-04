@@ -11,3 +11,9 @@
     - ``yarn build`` と ``firebase deploy --only hosting`` をまとめる
     - ``yarn host``
 - ``yarn eject``
+
+## React
+- ``yarn add react-redux @types/react-redux redux-thunk``
+
+## react-router-dom
+- ``yarn add react-router-dom @types/react-router-dom``
