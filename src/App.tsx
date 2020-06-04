@@ -1,4 +1,5 @@
 import React from 'react';
+import { Config } from './containers/Config';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         >
           Learn React
         </a>
+        <Config />
       </header>
     </div>
   );
