@@ -17,3 +17,9 @@
 
 ## react-router-dom
 - ``yarn add react-router-dom @types/react-router-dom``
+
+## Material UI
+- ``yarn add @material-ui/core @material-ui/icons``
+
+- ``yarn add styled-components @types/styled-components``
+- ``yarn add styled-theming @types/styled-theming``
